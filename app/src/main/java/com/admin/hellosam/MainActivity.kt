@@ -21,5 +21,12 @@ class MainActivity : AppCompatActivity() {
         //dev2 branch
         Log.d("branch","dev2 ");
 
+        //trying to commmit after pulling
+
+
     }
+
+
 }
+
+
