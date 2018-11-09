@@ -18,5 +18,8 @@ class MainActivity : AppCompatActivity() {
         Log.d("branch","dev1 ");
 
 
+        //dev2 branch
+        Log.d("branch","dev2 ");
+
     }
 }
