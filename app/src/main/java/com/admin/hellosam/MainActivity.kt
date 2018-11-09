@@ -24,6 +24,11 @@ class MainActivity : AppCompatActivity() {
         //trying to commmit after pulling
 
 
+
+        //dev4 branch
+        Log.d("branch","dev4 ");
+
+
     }
 
 
