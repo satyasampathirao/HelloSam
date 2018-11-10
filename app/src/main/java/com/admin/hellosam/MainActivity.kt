@@ -28,12 +28,18 @@ class MainActivity : AppCompatActivity() {
         Log.d("branch","dev4 ");
 
 
+        //dev4.2 branch
+        Log.d("branch","dev4.2 ");
+        //u r good to go
+
 
 
         //dev4.2 branch
         Log.d("branch","dev4.2 ");
         //u r good to go
 
+        //dev4.4 branch merge to dev 4
+        Log.d("branch","dev4.4 ");
 
 
     }
