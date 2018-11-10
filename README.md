@@ -1,2 +1,2 @@
 # HelloSam
-This project is created to test git branching and mergings, pull request, etc.,
+This project is created to test git inner branching and their merging, pull request, etc.,
